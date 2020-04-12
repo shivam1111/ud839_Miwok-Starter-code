@@ -27,4 +27,31 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="number_one">one</string>
+    <string name="number_two">two</string>
+    <string name="number_three">three</string>
+    <string name="number_four">four</string>
+    <string name="number_five">five</string>
+    <string name="number_six">six</string>
+    <string name="number_seven">seven</string>
+    <string name="number_eight">eight</string>
+    <string name="number_nine">nine</string>
+    <string name="number_ten">ten</string>
+
+    <string name="miwok_number_one">Lut:i</string>
+    <string name="miwok_number_two">’oṭi:ko</string>
+    <string name="miwok_number_three">tolo:koshu</string>
+    <string name="miwok_number_four">’oy:is:a</string>
+    <string name="miwok_number_five">mash:ok:a</string>
+    <string name="miwok_number_six">tem:ok:a</string>
+    <string name="miwok_number_seven">kenek:aku</string>
+    <string name="miwok_number_eight">kaw:inṭa</string>
+    <string name="miwok_number_nine">Wo\'e</string>
+    <string name="miwok_number_ten">na’a:cha</string>
+
+
 </resources>
